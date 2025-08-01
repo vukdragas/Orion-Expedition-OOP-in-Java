@@ -1,0 +1,4 @@
+Terra 100 100 4.0
+Mars 200 50 3.0
+Saturn 300 25 2.0
+Jupiter 400 12 1.0
